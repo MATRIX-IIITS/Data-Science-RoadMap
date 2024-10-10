@@ -1,5 +1,17 @@
 # 📚 Data Science Roadmap for Beginners 📚
 
+## 🌟 Introduction to Data Science 🌟
+Data Science is an exciting field where technology meets decision-making! It involves extracting insights and knowledge from data through programming, statistics, and machine learning. Data Scientists use tools like Python, R, SQL, and visualization techniques to analyze and interpret data, driving innovation in industries like healthcare, finance, and more. 🚀 Mastering data science empowers you to uncover patterns, make predictions, and build data-driven solutions. 📊
+
+Below, we've provided a comprehensive roadmap and recommended certifications to guide your journey. We believe the following YouTube channels are the most useful for beginners:
+
+1. Krish Naik: [![YouTube](https://img.shields.io/badge/YouTube-Channel-teal)](https://www.youtube.com/@krishnaik06)
+2. CampusX: [![YouTube](https://img.shields.io/badge/YouTube-Channel-teal)](https://www.youtube.com/@campusx-official)
+3. CodeBasics: [![YouTube](https://img.shields.io/badge/YouTube-Channel-teal)](https://www.youtube.com/@codebasics)
+
+Feel free to explore these channels for any part of the roadmap that you find challenging!
+
+
 ### 1. Programming Language 
 
 * Python Programming
@@ -13,6 +25,7 @@
 * Krish Naik Python Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 * CampusX Python Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)
 * Apna College Python Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ERCMXc8x7mc&pp=ygUTYXBuYSBjb2xsZWdlIHB5dGhvbg%3D%3D)
+* Code with Harry Python Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
 
 ### 2. Mathematics
 
@@ -42,9 +55,13 @@
 
 #### Resources
 
+#### EDA
+
 * Web Scrapping by CampusX: [![YouTube](https://img.shields.io/badge/YouTube-Video-lightgrey)](https://youtu.be/8NOdgjC1988?feature=shared)
 * EDA CampusX Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-lightgrey)](https://youtube.com/playlist?list=PLT1_veNeNPq3leWdcRGsyPWWQUBmBIqHx&feature=shared)
 * EDA Krish Naik 3 hours: [![YouTube](https://img.shields.io/badge/YouTube-Video-lightgrey)](https://youtu.be/fHFOANOHwh8?feature=shared)
+
+### Feature Engineering
 
 * Feature Engineering Playlist by Krish Naik: [![YouTube](https://img.shields.io/badge/YouTube-Video-lightgrey)](https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN)
 * Feature Selection Playlist by Krish Naik: [![YouTube](https://img.shields.io/badge/YouTube-Video-lightgrey)](https://youtube.com/playlist?list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&feature=shared)
@@ -84,6 +101,15 @@
 * Flask by Code Schafer: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * Flask by Krish Naik: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/watch?v=KF-rDqQfqz0&pp=ygUORmxhc2sgVHV0b3JpYWw%3D)
 * Streamlit Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
+* Cloud Service & API: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)
+* Fast API by CodeBasics:  [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/watch?v=Wr1JjhTt1Xg&pp=ygUcY29kZWJhc2ljcyBmYXN0IGFwaSBwbGF5bGlzdA%3D%3D)
+
+### 9. End to End Courses
+
+### Resources
+* CampusX Data Science Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-pink)](https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z)
+* CampusX Website (You can refer for the other courses here): [![YouTube](https://img.shields.io/badge/Website-Link-pink)](https://learnwith.campusx.in/s/store )
+* iNeorun Website (Refer this website if you can afford them): [![YouTube](https://img.shields.io/badge/Website-Link-pink)](https://ineuron.ai/)
 
 
 ## Certification Recommendations
