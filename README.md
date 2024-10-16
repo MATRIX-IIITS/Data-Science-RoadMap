@@ -98,7 +98,7 @@ Feel free to explore these channels for any part of the roadmap that you find ch
 
 #### Resources
 
-* Flask by Code Schafer: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+* Flask by Corey Schafer: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * Flask by Krish Naik: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/watch?v=KF-rDqQfqz0&pp=ygUORmxhc2sgVHV0b3JpYWw%3D)
 * Streamlit Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx)
 * Cloud Service & API: [![YouTube](https://img.shields.io/badge/YouTube-Video-brown)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)
